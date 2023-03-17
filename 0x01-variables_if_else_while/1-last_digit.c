@@ -17,10 +17,10 @@ int main(void)
 	if (t > 5)
 	{
 		printf(" and is greater than 5");
-	}else if (t == 0)
+	} else if (t == 0)
 	{
 		printf(" and is 0");
-	}else if(t < 6)
+	} else if(t < 6)
 	{
 	 	printf(" and is less than 6 and not 0");   
 	}
